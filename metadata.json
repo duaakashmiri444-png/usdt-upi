@@ -1,0 +1,6 @@
+{
+  "name": "UPI-Pay Exchange",
+  "description": "Multi-currency fiat & crypto exchange platform with instant UPI deposits, EasyPaisa, JazzCash, USDT, live order tracking, and comprehensive admin management.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
